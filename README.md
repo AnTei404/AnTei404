@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning more and more about **React, Python, Docker, and Tailwind**
 
+- 👨‍💻 Take a look at my (under-construction) Portfolio [https://antei404.github.io/Portfolio/](https://antei404.github.io/Portfolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
